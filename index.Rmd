@@ -24,9 +24,9 @@ This book is a companion to the [virtual AnVIL101 workshop](https://training.anv
 - Watch a [recording](https://www.youtube.com/watch?v=LKoOEpA8NMk) of a past workshop
 
 
-## Who is this book for? {-}
+## Who is AnVIL 101 for? {-}
 
-This book gives a brief tour of the AnVIL ecosystem and walks through the basics of setting up a compute environment on AnVIL. **If you have never used AnVIL before, this is a great place to start!**
+AnVIL 101 gives a brief tour of the AnVIL ecosystem and walks through the basics of setting up a compute environment on AnVIL. **If you have never used AnVIL before, this is a great place to start!**
 
 If you have previously set up your AnVIL account and started up an interactive computing environment (Jupyter, RStudio, or Galaxy), then you may be more interested in other materials, such as our monthly [virtual AnVIL Demos](https://training.anvilproject.org/demos.html) which dive deeper into how people use AnVIL for research. Check out the [AnVIL Training website](https://training.anvilproject.org/) to learn more about other training opportunities.
 
@@ -40,15 +40,17 @@ The beginning chapters, which give an overview of AnVIL, can be done without an 
 
 ::: {.notice}
 _Genetics_
+
 **Novice**: no genetics knowledge needed
 
 _Programming skills_
+
 **Novice**: no programming experience needed
 :::
 
 ## AnVIL Training {-}
 
-Please check out [training.anvilproject.org](https://training.anvilproject.org/) for additional learning opportunities and related resources
+Please check out [training.anvilproject.org](https://training.anvilproject.org/) for additional learning opportunities and related resources.
 
 <!-- ## Learning Objectives {-} -->
 
