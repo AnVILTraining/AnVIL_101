@@ -58,8 +58,8 @@ AnVIL empowers the scientific community by facilitating sharing of data and tool
 ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_904#slide=id.g409dedcc563_0_904" )
 ```
 
-- Public Workspaces and Dockstore enable AnVIL users to share data, pipelines, and results with the broader community.
-- Through the [community support forum](https://help.anvilproject.org/), AnVIL users can interact with each other and the AnVIL team.
-- Community events (both virtual and in person), such as monthly [AnVIL Demos](https://training.anvilproject.org/demos.html) and the annual [AnVIL Community Conference](https://training.anvilproject.org/acc.html), showcase work being done on AnVIL and provide opportunities for members of the AnVIL community to connect.
+- **Public Workspaces** and **Dockstore** enable AnVIL users to share data, pipelines, and results with the broader community.
+- Through the [**community support forum**](https://help.anvilproject.org/), AnVIL users can interact with each other and the AnVIL team.
+- **Community events** (both virtual and in person), such as monthly [AnVIL Demos](https://training.anvilproject.org/demos.html) and the annual [AnVIL Community Conference](https://training.anvilproject.org/acc.html), showcase work being done on AnVIL and provide opportunities for members of the AnVIL community to connect.
   - See [anvilproject.org/events](https://anvilproject.org/events) for upcoming events.
 
