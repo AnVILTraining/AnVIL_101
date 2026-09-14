@@ -34,7 +34,7 @@ ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDB
 - **Secure**: The AnVIL platform comes with built-in data access controls to help researchers ensure they maintain appropriate security measures while working with controlled-access data.
   - AnVIL's datasets and compute infrastructure are secured in accordance with the industry best practices, the NIST 800-53 Moderate security controls following the FedRAMP standard.
   - AnVIL is recognized by the NIH as a Controlled-Access Data Repository (CADR) that meets NIH’s Required Security and Operational Standards for NIH Controlled-Access Data Repositories (NOT-OD-25-159).
-  - Learn more about [AnVIL’s Platform and Data Security](https://anvilproject.org/overview/security)
+  - Learn more about [AnVIL’s Platform and Data Security](https://anvilproject.org/overview/security).
 
 
 ## Compute
@@ -51,3 +51,15 @@ ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDB
 
 
 ## Community
+
+AnVIL empowers the scientific community by facilitating sharing of data and tools, and by fostering communication between users of those data and tools.
+
+```{r, echo=FALSE, out.width="80%", fig.alt=" Screenshots of ways the AnVIL community can interact: Public Workspaces and Dockstore, monthly AnVIL Demos, and the AnVIL community support forum.", fig.align="center"}
+ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_904#slide=id.g409dedcc563_0_904" )
+```
+
+- Public Workspaces and Dockstore enable AnVIL users to share data, pipelines, and results with the broader community.
+- Through the [community support forum](https://help.anvilproject.org/), AnVIL users can interact with each other and the AnVIL team.
+- Community events (both virtual and in person), such as monthly [AnVIL Demos](https://training.anvilproject.org/demos.html) and the annual [AnVIL Community Conference](https://training.anvilproject.org/acc.html), showcase work being done on AnVIL and provide opportunities for members of the AnVIL community to connect.
+  - See [anvilproject.org/events](https://anvilproject.org/events) for upcoming events.
+
