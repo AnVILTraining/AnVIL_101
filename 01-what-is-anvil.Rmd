@@ -39,4 +39,15 @@ ottrpal::include_slide( "https://docs.google.com/presentation/d/11uxsxtnT0fIXlbX
 
 ## Compute
 
+Powered by the Terra platform, AnVIL provides many common genomics tools “out of the box”, and makes it easy for AnVIL users to add and share additional tools of their own choosing.
+
+```{r, echo=FALSE, out.width="80%", fig.alt="Diagram showing screenshots of 4 important analysis tools that can run on AnVIL: Jupyter, Galaxy, RStudio, and WDL.", fig.align="center"}
+ottrpal::include_slide( "https://docs.google.com/presentation/d/11uxsxtnT0fIXlbXqOOglf2Yn5ciiuZuSJVAY3Mn9i18/edit?slide=id.g3f5e12e3860_0_1067#slide=id.g3f5e12e3860_0_1067" )
+```
+
+- **RStudio** (with **BioConductor**) and **Jupyter** environments can be launched with the click of a button for easy access to interactive analysis tools. Users can install additional software as needed.
+- **Galaxy** on AnVIL combines the power of Galaxy with the security of AnVIL, providing a safe place to run Galaxy-based analyses on controlled-access data.
+- **WDL workflows** enable scalable analysis pipelines. Through [Dockstore](https://dockstore.org/), researchers can share and reuse workflows, facilitating reproducible research.
+
+
 ## Community
