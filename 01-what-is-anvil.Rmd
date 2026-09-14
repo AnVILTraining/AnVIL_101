@@ -6,10 +6,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XC5qzj-yZb8?si=eq_Z0QfgH2LLAeGF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-AnVIL powers a wide range of projects, from [building a more complete human genome](https://doi.org/10.1126/science.abl3533) to supporting clinical trials to [bringing bioinformatics research to undergraduate classrooms](https://www.nature.com/articles/s41588-025-02442-5).
+AnVIL powers a wide range of projects, from [building a more complete human genome](https://doi.org/10.1126/science.abl3533) to supporting [research that forms the basis for clinical trials](https://through.bio/anvil) to [bringing bioinformatics research to undergraduate classrooms](https://www.nature.com/articles/s41588-025-02442-5).
 
 ```{r, echo=FALSE, out.width="80%", fig.alt="Examples of high-profile publications powered by AnVIL. In particular work from the Telomere-to-Telomere project is highlighted.", fig.align="center"}
-ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g3faae1d5063_0_971#slide=id.g3faae1d5063_0_971" )
+ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_526#slide=id.g409dedcc563_0_526" )
 ```
 
 These efforts are made possible by AnVIL’s ability to provide computational power and tools exactly when and where they’re needed.
@@ -26,7 +26,7 @@ ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDB
 AnVIL provides secure access to >5 petabytes of data, spanning hundreds of datasets and >490,000 participants.
 
 ```{r, echo=FALSE, out.width="80%", fig.alt="Graph showing the growth of AnVIL data over time, as well as a list of consortia that make data available through AnVIL.", fig.align="center"}
-ottrpal::include_slide( "https://docs.google.com/presentation/d/11uxsxtnT0fIXlbXqOOglf2Yn5ciiuZuSJVAY3Mn9i18/edit?slide=id.g3f5e12e3860_0_862#slide=id.g3f5e12e3860_0_862" )
+ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_724#slide=id.g409dedcc563_0_724" )
 ```
 
 - **High value datasets**: AnVIL hosts many [consortia](https://anvilproject.org/consortia) datasets, including eMERGE, ALS, and GTEx.
@@ -42,10 +42,10 @@ ottrpal::include_slide( "https://docs.google.com/presentation/d/11uxsxtnT0fIXlbX
 Powered by the Terra platform, AnVIL provides many common genomics tools “out of the box”, and makes it easy for AnVIL users to add and share additional tools of their own choosing.
 
 ```{r, echo=FALSE, out.width="80%", fig.alt="Diagram showing screenshots of 4 important analysis tools that can run on AnVIL: Jupyter, Galaxy, RStudio, and WDL.", fig.align="center"}
-ottrpal::include_slide( "https://docs.google.com/presentation/d/11uxsxtnT0fIXlbXqOOglf2Yn5ciiuZuSJVAY3Mn9i18/edit?slide=id.g3f5e12e3860_0_1067#slide=id.g3f5e12e3860_0_1067" )
+ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_546#slide=id.g409dedcc563_0_546" )
 ```
 
-- **RStudio** (with **BioConductor**) and **Jupyter** environments can be launched with the click of a button for easy access to interactive analysis tools. Users can install additional software as needed.
+- **Jupyter** and **RStudio** (with **BioConductor**) environments can be launched with the click of a button for easy access to interactive analysis tools. Users can install additional software as needed.
 - **Galaxy** on AnVIL combines the power of Galaxy with the security of AnVIL, providing a safe place to run Galaxy-based analyses on controlled-access data.
 - **WDL workflows** enable scalable analysis pipelines. Through [Dockstore](https://dockstore.org/), researchers can share and reuse workflows, facilitating reproducible research.
 
