@@ -12,7 +12,7 @@ AnVIL powers a wide range of projects, from [building a more complete human geno
 ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_526#slide=id.g409dedcc563_0_526" )
 ```
 
-These efforts are made possible by AnVIL’s ability to provide computational power and tools exactly when and where they’re needed.
+These efforts are made possible by AnVIL’s ability to provide computational power and tools exactly when and where they’re needed. You can learn more about research powered by AnVIL at [anvilproject.org/explore/citations](https://anvilproject.org/explore/citations).
 
 So, what exactly is AnVIL? AnVIL comprises 3 pillars that together enable secure, robust, collaborative genomic data science: **data**, **compute**, and **community**.
 
@@ -39,7 +39,7 @@ ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDB
 
 ## Compute
 
-Powered by the Terra platform, AnVIL provides many common genomics tools “out of the box”, and makes it easy for AnVIL users to add and share additional tools of their own choosing.
+Powered by the Terra platform, AnVIL provides many common genomics tools "out of the box", and makes it easy for AnVIL users to add and share additional tools of their own choosing.
 
 ```{r, echo=FALSE, out.width="80%", fig.alt="Diagram showing screenshots of 4 important analysis tools that can run on AnVIL: Jupyter, Galaxy, RStudio, and WDL.", fig.align="center"}
 ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_546#slide=id.g409dedcc563_0_546" )
