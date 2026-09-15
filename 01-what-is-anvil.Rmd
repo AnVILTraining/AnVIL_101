@@ -67,4 +67,3 @@ ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDB
 - Through the [**community support forum**](https://help.anvilproject.org/), AnVIL users can interact with each other and the AnVIL team.
 - **Community events** (both virtual and in person), such as monthly [AnVIL Demos](https://training.anvilproject.org/demos.html) and the annual [AnVIL Community Conference](https://training.anvilproject.org/acc.html), showcase work being done on AnVIL and provide opportunities for members of the AnVIL community to connect.
   - See [anvilproject.org/events](https://anvilproject.org/events) for upcoming events.
-
