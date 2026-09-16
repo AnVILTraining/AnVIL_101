@@ -33,7 +33,7 @@ AnVIL provides secure access to >5 petabytes of data, spanning hundreds of datas
 ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_724#slide=id.g409dedcc563_0_724" )
 ```
 
-- **High value datasets**: AnVIL hosts many [consortia](https://anvilproject.org/consortia) datasets, including eMERGE, ALS, and GTEx.
+- **High value datasets**: AnVIL hosts many [consortia](https://anvilproject.org/consortia) datasets, including GREGoR, ALS, MOHD and GTEx.
 - **Discoverable**: Through the [AnVIL Data Explorer](https://explore.anvilproject.org/datasets) you can browse or search for datasets based on many different facets, such as Diagnosis or Anatomical Site, as well as Consent Group or File Type.
 - **Secure**: The AnVIL platform comes with built-in data access controls to help researchers ensure they maintain appropriate security measures while working with controlled-access data.
   - AnVIL's datasets and compute infrastructure are secured in accordance with the industry best practices, the NIST 800-53 Moderate security controls following the FedRAMP standard.
