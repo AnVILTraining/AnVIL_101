@@ -46,8 +46,8 @@ The [Data on AnVIL webbook](https://hutchdatascience.org/Data_on_AnVIL/) provide
 
 Powered by the Terra platform, AnVIL provides many common genomics tools "out of the box". Anvil users can also import and share additional tools of their own choosing.
 
-```{r, echo=FALSE, out.width="80%", fig.alt="Diagram showing screenshots of 4 important analysis tools that can run on AnVIL: Jupyter, Galaxy, RStudio, and WDL.", fig.align="center"}
-ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_546#slide=id.g409dedcc563_0_546" )
+```{r, echo=FALSE, out.width="80%", fig.alt="Diagram showing screenshots of 4 important analysis tools that can run on AnVIL: Jupyter, Galaxy, RStudio, WDL, All of Us + AnVIL Imputation Service, and seqr.", fig.align="center"}
+ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDBvj_1d0USMnhaB3jiavWTLQDhgRuw/edit?slide=id.g409dedcc563_0_1055#slide=id.g409dedcc563_0_1055" )
 ```
 
 - **Jupyter** and **RStudio** (with **BioConductor**) environments can be launched with the click of a button for easy access to interactive analysis tools. Users can install additional software as needed.
