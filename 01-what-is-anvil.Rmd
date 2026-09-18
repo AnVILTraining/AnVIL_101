@@ -53,6 +53,8 @@ ottrpal::include_slide( "https://docs.google.com/presentation/d/1vJebvBQH_U80gDB
 - **Jupyter** and **RStudio** (with **BioConductor**) environments can be launched with the click of a button for easy access to interactive analysis tools. Users can install additional software as needed.
 - **Galaxy** on AnVIL combines the power of Galaxy with the security of AnVIL, providing a safe place to run Galaxy-based analyses on controlled-access data.
 - **WDL workflows** enable scalable analysis pipelines. Through [Dockstore](https://dockstore.org/), researchers can share and reuse workflows, facilitating reproducible research.
+- **All of Us + AnVIL Imputation Service** provides genotype imputation based on a diverse reference panel of genomes from over 515,000 participants from the All of Us Research Program and AnVIL Center for Common Disease Genomics.
+- **seqr** supports rare disease diagnosis and gene discovery through variant search with family-based analyses. Users can perform de novo/dominant, recessive, or custom searches within a family to efficiently identify a diagnostic or candidate cause of disease.
 
 
 ### Community
