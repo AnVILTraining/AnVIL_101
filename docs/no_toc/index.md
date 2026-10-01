@@ -1,6 +1,6 @@
 ---
 title: "AnVIL 101"
-date: "September 30, 2026"
+date: "October 01, 2026"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
