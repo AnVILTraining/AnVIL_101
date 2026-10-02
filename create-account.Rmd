@@ -4,6 +4,9 @@
 Please complete these steps to sign up for AnVIL. This should take less than 15 minutes.
 **This will allow you to follow along with the hands-on exercises**.
 
+<br>
+<br>
+
 
 1. AnVIL is supported by Google Chrome. if you don’t already have it, please [install Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en). If you already have it installed, make sure to [update Google Chrome](https://support.google.com/chrome/answer/95414?hl=en&co=GENIE.Platform%3DDesktop#:~:text=On%20your%20computer%2C%20open%20Chrome.,-At%20the%20top&text=About%20Google%20Chrome.,re%20on%20the%20latest%20version.).
 2. You must create an AnVIL account to follow the hands-on exercises. AnVIL uses a platform called Terra to manage computing environments, so you will need to register through Terra.
@@ -17,7 +20,7 @@ Please complete these steps to sign up for AnVIL. This should take less than 15 
 If you have questions or issues registering for an AnVIL account, please post or browse [help.anvilproject.org](http://help.anvilproject.org).
 
 
-## FAQs
+## FAQs {-}
 
 1. **Can I use a regular gmail account (not associated with an institution)?**
     - A regular gmail account will be fine for workshops like AnVIL 101, but will not allow you to access most AnVIL datasets. To comply with [NIH data security requirements](https://support.terra.bio/hc/en-us/community/posts/35674059053211-New-NIH-external-identity-restrictions-for-NIH-controlled-access-data), unaffiliated email accounts (such as gmail.com) CANNOT be given access to controlled-access data. We recommend using an institutional account if possible.
