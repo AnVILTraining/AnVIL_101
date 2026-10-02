@@ -8,7 +8,7 @@ Please complete these steps to sign up for AnVIL. This should take less than 15 
 <br>
 
 
-1. AnVIL is supported by **Google Chrome**. if you don’t already have it, please [install Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en). If you already have it installed, make sure to [update Google Chrome](https://support.google.com/chrome/answer/95414?hl=en&co=GENIE.Platform%3DDesktop#:~:text=On%20your%20computer%2C%20open%20Chrome.,-At%20the%20top&text=About%20Google%20Chrome.,re%20on%20the%20latest%20version.).
+1. AnVIL is supported by **Google Chrome**. if you don’t already have it, please [install Google Chrome](https://www.google.com/chrome/). If you already have it installed, make sure to [update Google Chrome](https://www.google.com/chrome/update/).
 2. You must create an **AnVIL account** to follow the hands-on exercises. AnVIL uses a platform called Terra to manage computing environments, so you will need to register through Terra.
     - [Set up a Terra account](https://support.terra.bio/hc/en-us/articles/360028235911-How-to-register-for-a-Terra-account) - You will need a Gmail account or another email associated with a Google identity. *We strongly recommend using your institutional email so you can leverage AnVIL data*.
     - If your institutional email is not associated with a Google identity, you can [create a Google identity linked to your institutional email](https://support.terra.bio/hc/en-us/articles/360029186611-Setting-up-a-Google-account-with-a-non-Google-email).
